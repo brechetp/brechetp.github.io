@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PB"
+title                    : "Pierre B."
 title_separator          : "-"
 name                     : &name "Pierre Bréchet"
 description              : &description "My personal webpage"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pierre Bréchet"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Third year PhD student"
   location         : "Leipzig"
   employer         :
