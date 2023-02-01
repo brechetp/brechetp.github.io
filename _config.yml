@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Pierre Bréchet"
-  avatar           : "profile.jpeg"
-  bio              : "Third year PhD student"
+  avatar           : "profile.png"
+  bio              : "Third year PhD student in machine learning."
   location         : "Leipzig"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
