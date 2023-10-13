@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2016: Research Assistant
+* Summer 2019: Research Assistant
   * TU Munich
   * Duties included: Preparing the publication of the Master Thesis
   * Supervisors: Dr. Tao Wu, Thomas Möllenhof
