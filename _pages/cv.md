@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor student, _Télécom ParisTech_, Paris, France, 2013-2014
+* Engineering student, _EURECOM_, Sophia-Antipolis, France, 2014-2015
+* Master of Science in Computer Science, _TUM_, Munich, Germany, 2015-2019 
+* Ph.D in computer science, _MPI MiS_, Leipzig, Germany, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Research Assistant
+  * TU Munich
+  * Duties included: Preparing the publication of the Master Thesis
+  * Supervisors: Dr. Tao Wu, Thomas Möllenhof
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Research Assistant
+  * MPI MiS
+  * Duties included: Looking for a PhD. topic
+  * Supervisor: Dr. Guido Montúfar 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python for scientific computing
+* PyTorch framework for deep learning
+* Bash for general scripting
+* Julia for mathematical computing
 
 Publications
 ======
@@ -54,6 +53,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
