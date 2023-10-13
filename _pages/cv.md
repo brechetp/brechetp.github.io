@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Bachelor student, _Télécom ParisTech_, Paris, France, 2013-2014
-* Engineering student, _EURECOM_, Sophia-Antipolis, France, 2014-2015
-* Master of Science in Computer Science, _TUM_, Munich, Germany, 2015-2019 
+* Bachelor student, _Télécom ParisTech_, Paris, France, 2013--2014
+* Engineering student, _EURECOM_, Sophia-Antipolis, France, 2014--2015
+* Master of Science in Computer Science, _TUM_, Munich, Germany, 2015--2019 
 * Ph.D in computer science, _MPI MiS_, Leipzig, Germany, 2023 (expected)
 
 Work experience
