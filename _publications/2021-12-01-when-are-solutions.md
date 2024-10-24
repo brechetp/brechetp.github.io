@@ -1,7 +1,7 @@
 ---
 title: "When are solutions connected in deep networks?"
 collection: publications
-permalink: /publications/NBM2021When.pdf
+permalink: /files/publications/NBM2021When.pdf
 excerpt: 'The question of how and why the phenomenon of mode connectivity occurs
 in training deep neural networks has gained remarkable attention in the research
 community. From a theoretical perspective, two possible explanations have been
