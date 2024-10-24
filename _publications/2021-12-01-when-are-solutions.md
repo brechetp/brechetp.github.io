@@ -1,7 +1,7 @@
 ---
 title: "When are solutions connected in deep networks?"
 collection: publications
-permalink: 
+permalink: /publications/NBM2021When.pdf
 excerpt: 'The question of how and why the phenomenon of mode connectivity occurs
 in training deep neural networks has gained remarkable attention in the research
 community. From a theoretical perspective, two possible explanations have been
@@ -22,9 +22,8 @@ needed to show the connectivity. Our experiments confirm that the proposed
 condition ensures the connectivity of solutions found by stochastic gradient
 descent, even in settings where the previous requirements do not hold.'
 date: 2021-12-01
-venue: 'NeurIPS Proceedings'
+venue: 'NeurIPS 2021'
 paperurl: 'https://proceedings.neurips.cc/paper/2021/file/af5baf594e9197b43c9f26f17b205e5b-Paper.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
